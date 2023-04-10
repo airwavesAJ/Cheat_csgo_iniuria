@@ -1,1 +1,2 @@
+open setup-iniuria
 install and extract with winrar
